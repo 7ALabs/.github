@@ -1,4 +1,4 @@
-# 7A Labs
+# 7ALabs
 
 Estúdio de software. Definimos a arquitetura e os contratos, e deixamos a IA acelerar a implementação.
 
