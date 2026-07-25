@@ -6,11 +6,14 @@
 
 Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
 
-Site: https://7alabs.github.io
+- **Site institucional:** https://7alabs.github.io/
+- **Ecossistema SignallQ:** https://signallq.pages.dev/
+- **Teste fechado:** https://groups.google.com/g/testadores-signallq
+- **Google Play:** https://play.google.com/store/apps/details?id=io.signallq.app
 
 ## Ecossistema SignallQ
 
-**SignallQ** — aplicativo Android de diagnóstico de conectividade para consumidores.
+**[SignallQ](https://signallq.pages.dev/)** — aplicativo Android de diagnóstico de conectividade para consumidores.
 
 **SignallQ PRO** — ferramentas de medição, atendimento e geração de evidências para profissionais de redes.
 
