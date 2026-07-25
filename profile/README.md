@@ -1,17 +1,31 @@
-# 7ALabs
+# 7A
 
-Estúdio de software. Definimos a arquitetura e os contratos, e deixamos a IA acelerar a implementação.
+**Independent Product Lab**
+
+<sub>7A Labs é o nome institucional da organização. A expressão visual principal é 7A.</sub>
+
+Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
 
 Site: https://7alabs.github.io
 
-## Produtos
+## Ecossistema SignallQ
 
-**SignallQ** — diagnóstico de conectividade para Android. Mede sinal, throughput e estabilidade da conexão e traduz o resultado em um diagnóstico claro, com um console administrativo para análise de dados.
-Stack: Kotlin, Jetpack Compose, Cloudflare Workers, React, TypeScript.
+**SignallQ** — aplicativo Android de diagnóstico de conectividade para consumidores.
 
-**Agente Virtual** — diagnóstico de conexão white-label para assinantes de provedores de internet. Sem aplicativo, sem login: abre um chamado pré-diagnosticado direto no ERP do provedor.
-Stack: React, TypeScript, Cloudflare Pages, Cloudflare Workers.
+**SignallQ PRO** — ferramentas de medição, atendimento e geração de evidências para profissionais de redes.
+
+**SignallQ Admin** — operação, configuração e análise dos produtos do ecossistema.
+
+**SignallQ Agente** — diagnóstico integrado para provedores de internet, preservando a experiência e a marca de cada operação.
+
+## Arquitetura de marca
+
+- **Empresa e organização:** 7A Labs
+- **Expressão visual principal:** 7A
+- **Assinatura dos produtos:** by 7A
+- **Ecossistema principal:** SignallQ
+- **Identificador técnico no GitHub:** `7ALabs`
 
 ## Como trabalhamos
 
-Poucos produtos, construídos com cuidado e mantidos ao longo do tempo. Priorizamos simplicidade a expansão de escopo. Arquitetura e contratos são definidos por pessoas; a execução é acelerada por IA sob supervisão direta.
+Poucos produtos, construídos com cuidado e mantidos ao longo do tempo. Priorizamos simplicidade, evidência e foco antes de ampliar escopo.
