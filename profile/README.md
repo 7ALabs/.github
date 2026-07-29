@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/7ALabs/.github/main/profile/assets/cover-buildea.png" alt="Buildea" width="100%" />
+<img src="https://raw.githubusercontent.com/buildea-labs/.github/main/profile/assets/cover-buildea.png" alt="Buildea" width="100%" />
 
 **Ideas. Built.**
 
-<sub>Buildea é a marca institucional da organização. Identificador técnico no GitHub: `7ALabs`.</sub>
+<sub>Buildea é a marca institucional da organização. Identificador técnico no GitHub: `buildea-labs`.</sub>
 
 Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
 
-- **Site institucional:** https://7alabs.github.io/
+- **Site institucional:** https://buildea-labs.github.io/
 - **Ecossistema SignallQ:** https://signallq.pages.dev/
 - **Teste fechado:** https://groups.google.com/g/testadores-signallq
 - **Google Play:** https://play.google.com/store/apps/details?id=io.signallq.app
@@ -26,7 +26,7 @@ Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial
 - **Empresa e organização:** Buildea
 - **Assinatura dos produtos:** by Buildea
 - **Ecossistema principal:** SignallQ
-- **Identificador técnico no GitHub:** `7ALabs`
+- **Identificador técnico no GitHub:** `buildea-labs`
 
 ## Como trabalhamos
 
