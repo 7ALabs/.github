@@ -7,25 +7,19 @@
 Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
 
 - **Site institucional:** https://buildea-labs.github.io/
-- **Ecossistema SignallQ:** https://signallq.pages.dev/
-- **Teste fechado:** https://groups.google.com/g/testadores-signallq
-- **Google Play:** https://play.google.com/store/apps/details?id=io.signallq.app
+- **SignallQ:** https://signallq.pages.dev/
+- **Google Play (SignallQ):** https://play.google.com/store/apps/details?id=io.signallq.app
 
-## Ecossistema SignallQ
+## Produtos
 
-**[SignallQ](https://signallq.pages.dev/)** — aplicativo Android de diagnóstico de conectividade para consumidores.
+**[SignallQ](https://signallq.pages.dev/)** — diagnóstico de conectividade para consumidores e profissionais de redes.
 
-**SignallQ PRO** — ferramentas de medição, atendimento e geração de evidências para profissionais de redes.
-
-**SignallQ Admin** — operação, configuração e análise dos produtos do ecossistema.
-
-**SignallQ Agente** — diagnóstico integrado para provedores de internet, preservando a experiência e a marca de cada operação.
+**Savro** — organização patrimonial local-first para investidores brasileiros, Android e iOS nativos: sem conta, sem nuvem, os dados nunca saem do aparelho.
 
 ## Arquitetura de marca
 
 - **Empresa e organização:** Buildea
 - **Assinatura dos produtos:** by Buildea
-- **Ecossistema principal:** SignallQ
 - **Identificador técnico no GitHub:** `buildea-labs`
 
 ## Como trabalhamos
