@@ -1,8 +1,8 @@
-# 7A
+<img src="https://raw.githubusercontent.com/7ALabs/.github/main/profile/assets/cover-buildea.png" alt="Buildea" width="100%" />
 
-**Independent Product Lab**
+**Ideas. Built.**
 
-<sub>7A Labs é o nome institucional da organização. A expressão visual principal é 7A.</sub>
+<sub>Buildea é a marca institucional da organização. Identificador técnico no GitHub: `7ALabs`.</sub>
 
 Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial acelera a execução; arquitetura, decisões e responsabilidade continuam humanas.
 
@@ -23,9 +23,8 @@ Desenvolvemos e operamos produtos digitais próprios. A inteligência artificial
 
 ## Arquitetura de marca
 
-- **Empresa e organização:** 7A Labs
-- **Expressão visual principal:** 7A
-- **Assinatura dos produtos:** by 7A
+- **Empresa e organização:** Buildea
+- **Assinatura dos produtos:** by Buildea
 - **Ecossistema principal:** SignallQ
 - **Identificador técnico no GitHub:** `7ALabs`
 
